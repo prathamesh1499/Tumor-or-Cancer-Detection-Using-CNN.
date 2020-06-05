@@ -1,4 +1,4 @@
-# Tumor-or-Cancer-Detection-Using-CNN.
+# Tumor-or-Cancer-Detection-Using-CNN with a 96% accuracy 
 
 Breast cancer wisconsin (diagnostic) dataset
 --------------------------------------------
